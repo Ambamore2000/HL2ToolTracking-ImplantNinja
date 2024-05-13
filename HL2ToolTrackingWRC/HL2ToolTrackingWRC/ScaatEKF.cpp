@@ -1,7 +1,7 @@
 #include "pch.h"
 
-#define DBG_ENABLE_INFORMATIONAL_LOGGING 0
-#define DBG_ENABLE_VERBOSE_LOGGING 0
+#define DBG_ENABLE_INFORMATIONAL_LOGGING 1
+#define DBG_ENABLE_VERBOSE_LOGGING 1
 
 // see https://docs.opencv.org/master/dc/d2c/tutorial_real_time_pose.html
 ScaatEKF::ScaatEKF(

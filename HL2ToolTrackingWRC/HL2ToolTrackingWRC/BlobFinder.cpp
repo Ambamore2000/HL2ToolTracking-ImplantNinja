@@ -1,6 +1,6 @@
 #include "pch.h"
 
-#define DBG_ENABLE_VERBOSE_LOGGING 0
+#define DBG_ENABLE_VERBOSE_LOGGING 1
 
 BlobFinder::BlobFinder(
 	cv::Mat fMat) :
